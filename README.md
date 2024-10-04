@@ -16,8 +16,8 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> LAMA HAYO
-                        <td> Z
+                    <td> 60
+                        <td> D
                         <td> COMPUTER</td>
                     </td>
            
