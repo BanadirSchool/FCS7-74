@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> LAMA HAYO
-                        <td> Z
+                    <td> 86
+                        <td> B+
                     </td>
                     <td> COMPUTER
                     </td>
